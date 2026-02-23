@@ -40,7 +40,7 @@ export const organelles: Organelle[] = [
     funFact:
       "The cell membrane is so thin you'd need to stack about 10,000 of them to be as thick as a single sheet of paper!",
     modelNote:
-      "In my 3D model, the cell membrane is the golden-yellow layer sitting just inside the cell wall.",
+      "In my 3D model, the cell membrane is the yellow layer sitting just inside the cell wall.",
   },
   {
     slug: "nucleus",
@@ -55,7 +55,7 @@ export const organelles: Organelle[] = [
     funFact:
       "Your DNA is about 2 metres long when stretched out, but it's coiled up so tightly that it fits inside a nucleus that's smaller than a grain of sand!",
     modelNote:
-      "In my 3D model, the nucleus is the large purple sphere near the centre of the cell.",
+      "In my 3D model, the nucleus is the purple piece off to one side of the cell, with a cut-out cross section so you can see inside it.",
   },
   {
     slug: "vacuole",
@@ -70,7 +70,7 @@ export const organelles: Organelle[] = [
     funFact:
       "When a plant wilts, it's because the vacuoles have lost water and shrunk. Give it a drink and they fill back up, making the plant stand tall again!",
     modelNote:
-      "In my 3D model, the vacuole is the large blue piece in the centre. It's the biggest organelle in there!",
+      "In my 3D model, the vacuole is the large blue piece. It's the biggest organelle in there!",
   },
   {
     slug: "chloroplast",
@@ -85,7 +85,7 @@ export const organelles: Organelle[] = [
     funFact:
       "Chloroplasts actually used to be separate tiny organisms billions of years ago! They were swallowed by larger cells, and instead of being digested, they teamed up and have worked together ever since.",
     modelNote:
-      "In my 3D model, the chloroplasts are the small forest-green oval shapes dotted around the cell.",
+      "In my 3D model, the chloroplast is the single dark green piece with small disc shapes inside it.",
   },
   {
     slug: "mitochondria",
@@ -100,7 +100,7 @@ export const organelles: Organelle[] = [
     funFact:
       "Just like chloroplasts, mitochondria were once free-living organisms that teamed up with larger cells. They even have their own DNA, separate from the nucleus!",
     modelNote:
-      "In my 3D model, the mitochondria are the small red-purple bean-shaped pieces.",
+      "In my 3D model, the mitochondrion is the purple oblong piece with red strands inside it.",
   },
   {
     slug: "endoplasmic-reticulum",
@@ -147,7 +147,7 @@ export const organelles: Organelle[] = [
     funFact:
       "A single cell can have millions of ribosomes! They're some of the smallest parts inside a cell, but without them, nothing would get built.",
     modelNote:
-      "In my 3D model, the ribosomes are the tiny red dots scattered around the cell and attached to the ER.",
+      "In my 3D model, the ribosome is the small piece in the centre with two little red bumps on top.",
   },
 ];
 
