@@ -25,7 +25,7 @@ export const organelles: Organelle[] = [
     funFact:
       "The cell wall is so strong that even when a plant cell dies, the wall stays behind. That's why wood is so hard — it's made of millions of old cell walls!",
     modelNote:
-      "In our 3D model, the cell wall is the dark green outer layer that wraps around the whole cell.",
+      "In my 3D model, the cell wall is the dark green outer layer that wraps around the whole cell.",
   },
   {
     slug: "cell-membrane",
@@ -40,7 +40,7 @@ export const organelles: Organelle[] = [
     funFact:
       "The cell membrane is so thin you'd need to stack about 10,000 of them to be as thick as a single sheet of paper!",
     modelNote:
-      "In our 3D model, the cell membrane is the golden-yellow layer sitting just inside the cell wall.",
+      "In my 3D model, the cell membrane is the golden-yellow layer sitting just inside the cell wall.",
   },
   {
     slug: "nucleus",
@@ -55,7 +55,7 @@ export const organelles: Organelle[] = [
     funFact:
       "Your DNA is about 2 metres long when stretched out, but it's coiled up so tightly that it fits inside a nucleus that's smaller than a grain of sand!",
     modelNote:
-      "In our 3D model, the nucleus is the large purple sphere near the centre of the cell.",
+      "In my 3D model, the nucleus is the large purple sphere near the centre of the cell.",
   },
   {
     slug: "vacuole",
@@ -70,7 +70,7 @@ export const organelles: Organelle[] = [
     funFact:
       "When a plant wilts, it's because the vacuoles have lost water and shrunk. Give it a drink and they fill back up, making the plant stand tall again!",
     modelNote:
-      "In our 3D model, the vacuole is the large blue piece in the centre. It's the biggest organelle in there!",
+      "In my 3D model, the vacuole is the large blue piece in the centre. It's the biggest organelle in there!",
   },
   {
     slug: "chloroplast",
@@ -85,7 +85,7 @@ export const organelles: Organelle[] = [
     funFact:
       "Chloroplasts actually used to be separate tiny organisms billions of years ago! They were swallowed by larger cells, and instead of being digested, they teamed up and have worked together ever since.",
     modelNote:
-      "In our 3D model, the chloroplasts are the small forest-green oval shapes dotted around the cell.",
+      "In my 3D model, the chloroplasts are the small forest-green oval shapes dotted around the cell.",
   },
   {
     slug: "mitochondria",
@@ -100,7 +100,7 @@ export const organelles: Organelle[] = [
     funFact:
       "Just like chloroplasts, mitochondria were once free-living organisms that teamed up with larger cells. They even have their own DNA, separate from the nucleus!",
     modelNote:
-      "In our 3D model, the mitochondria are the small red-purple bean-shaped pieces.",
+      "In my 3D model, the mitochondria are the small red-purple bean-shaped pieces.",
   },
   {
     slug: "endoplasmic-reticulum",
@@ -116,7 +116,7 @@ export const organelles: Organelle[] = [
     funFact:
       "If you unfolded all the ER from a single cell and laid it flat, it would cover an area much bigger than the cell itself!",
     modelNote:
-      "In our 3D model, the ER is the yellow wavy, folded piece near the nucleus.",
+      "In my 3D model, the ER is the yellow wavy, folded piece near the nucleus.",
   },
   {
     slug: "golgi-body",
@@ -132,7 +132,7 @@ export const organelles: Organelle[] = [
     funFact:
       "The Golgi body is named after Camillo Golgi, an Italian scientist who discovered it in 1898. He won the Nobel Prize partly because of this discovery!",
     modelNote:
-      "In our 3D model, the Golgi body is the light-blue stacked, pancake-like piece.",
+      "In my 3D model, the Golgi body is the light-blue stacked, pancake-like piece.",
   },
   {
     slug: "ribosome",
@@ -147,7 +147,7 @@ export const organelles: Organelle[] = [
     funFact:
       "A single cell can have millions of ribosomes! They're some of the smallest parts inside a cell, but without them, nothing would get built.",
     modelNote:
-      "In our 3D model, the ribosomes are the tiny red dots scattered around the cell and attached to the ER.",
+      "In my 3D model, the ribosomes are the tiny red dots scattered around the cell and attached to the ER.",
   },
 ];
 

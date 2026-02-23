@@ -48,7 +48,7 @@ export default function OrganelleLayout({ organelle }: { organelle: Organelle })
 
         <section className="mt-6 animate-fade-in-up">
           <h2 className="text-xl font-semibold mb-2" style={{ color: organelle.color }}>
-            🖨️ In Our Model
+            🖨️ In My Model
           </h2>
           <p className="text-gray-700 leading-relaxed">{organelle.modelNote}</p>
         </section>

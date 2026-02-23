@@ -27,7 +27,7 @@ export default function Home() {
             />
           </div>
           <p className="text-center text-sm text-gray-500 mt-2">
-            Our 3D printed plant cell model
+            My 3D printed plant cell model
           </p>
         </div>
 
